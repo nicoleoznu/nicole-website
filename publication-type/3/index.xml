@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3 | Nicole Holz</title>
-    <link>/publication-type/3/</link>
-      <atom:link href="/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nicoleoznu.github.io/nicole-website/publication-type/3/</link>
+      <atom:link href="https://nicoleoznu.github.io/nicole-website/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://nicoleoznu.github.io/nicole-website/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
-      <link>/publication-type/3/</link>
+      <link>https://nicoleoznu.github.io/nicole-website/publication-type/3/</link>
     </image>
     
     <item>
       <title>Rational Eviction: How Landlords Use Evictions in Response to Rent Control</title>
-      <link>/publication/evictions/</link>
+      <link>https://nicoleoznu.github.io/nicole-website/publication/evictions/</link>
       <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/evictions/</guid>
+      <guid>https://nicoleoznu.github.io/nicole-website/publication/evictions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Who Profits from Amateurism? Rent-sharing in Modern College Sports</title>
-      <link>/publication/ncaa/</link>
+      <link>https://nicoleoznu.github.io/nicole-website/publication/ncaa/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/ncaa/</guid>
+      <guid>https://nicoleoznu.github.io/nicole-website/publication/ncaa/</guid>
       <description></description>
     </item>
     
